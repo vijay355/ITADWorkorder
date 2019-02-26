@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="bisonworkorder" label="Bisonworkorder" language="en" table="x_304957_itadwo_workordermain">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>bisonworkorder</element>
+            <help/>
+            <hint/>
+            <label>Bisonworkorder</label>
+            <language>en</language>
+            <name>x_304957_itadwo_workordermain</name>
+            <plural>Bisonworkorders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:39:47</sys_created_on>
+            <sys_id>c843dae2db7323009b5dab7dca9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Bisonworkorder</sys_name>
+            <sys_package display_value="ITADWO" source="x_304957_itadwo">c5bfe922db3323009b5dab7dca9619af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITADWO">c5bfe922db3323009b5dab7dca9619af</sys_scope>
+            <sys_update_name>sys_documentation_x_304957_itadwo_workordermain_bisonworkorder_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:39:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Locationdef" max_length="40" name="x_304957_itadwo_locationdef" type="collection">
+        <element label="Locationname" max_length="40" name="locationname" type="string"/>
+        <element label="Locationtype" max_length="40" name="locationtype" type="string"/>
+    </element>
+</database>

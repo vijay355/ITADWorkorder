@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="WOFileMap" max_length="40" name="x_304957_itadwo_wofilemap" type="collection">
+        <element label="AssetTag" max_length="40" name="assettag" type="string"/>
+        <element label="FileType" max_length="40" name="filetype" type="string"/>
+        <element label="WorkorderID" max_length="40" name="workorderid" type="string"/>
+    </element>
+</database>

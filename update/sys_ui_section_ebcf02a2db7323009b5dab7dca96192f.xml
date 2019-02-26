@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="WorkOrderSubmission" section_id="ebcf02a2db7323009b5dab7dca96192f" sys_domain="global" table="x_304957_itadwo_workordermain" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>a5e59aa6db7323009b5dab7dca96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workorderstatus</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>29e59aa6db7323009b5dab7dca96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>a9e59aa6db7323009b5dab7dca96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>confirmedby</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>2de59aa6db7323009b5dab7dca96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>confirmedwith</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>ade59aa6db7323009b5dab7dca96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pickupconfirmeddate</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>21e59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>a1e59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disposal_reason</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>25e59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>latestdateofpickup</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>a5e59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workordertype</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>29e59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>a9e59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>earliestdatetopickup</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>2de59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pickupcontact</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>ade59aa6db7323009b5dab7dca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_1</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:51:21</sys_created_on>
+            <sys_id>21e59aa6db7323009b5dab7dca96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="WorkOrderSubmission" display_value="WorkOrderSubmission" name="x_304957_itadwo_workordermain" sys_domain="global" view="Default view">ebcf02a2db7323009b5dab7dca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>WorkOrderSubmission</caption>
+            <header>false</header>
+            <name>x_304957_itadwo_workordermain</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-26 09:24:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebcf02a2db7323009b5dab7dca96192f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>WorkOrderSubmission</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ITADWO" source="x_304957_itadwo">c5bfe922db3323009b5dab7dca9619af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITADWO">c5bfe922db3323009b5dab7dca9619af</sys_scope>
+            <sys_update_name>sys_ui_section_ebcf02a2db7323009b5dab7dca96192f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-26 09:37:40</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

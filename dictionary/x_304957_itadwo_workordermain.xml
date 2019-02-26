@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="alm_asset" label="WorkorderMain" max_length="40" name="x_304957_itadwo_workordermain" type="collection">
+        <element label="bisonworkorder" max_length="40" name="bisonworkorder" type="boolean"/>
+        <element label="ConfirmedBy" max_length="40" name="confirmedby" type="string"/>
+        <element label="ConfirmedWith" max_length="40" name="confirmedwith" type="string"/>
+        <element label="EarliestdatetoPickup" max_length="40" name="earliestdatetopickup" type="string"/>
+        <element label="EstimatedQty" max_length="40" name="estimatedqty" type="string"/>
+        <element label="IMJOBID" max_length="40" name="imjobid" type="string"/>
+        <element label="LatestDateofPickup" max_length="40" name="latestdateofpickup" type="string"/>
+        <element label="Location type" max_length="40" name="location_type" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PickUpConfirmedDate" max_length="40" name="pickupconfirmeddate" type="string"/>
+        <element label="PickUpContact" max_length="40" name="pickupcontact" type="string"/>
+        <element label="WorkorderId" max_length="40" name="u_integer_1" type="integer"/>
+        <element choice="3" label="WorkorderStatus" max_length="40" name="workorderstatus" type="choice">
+            <choice>
+                <element label="Completed"/>
+                <element label="Draft"/>
+                <element label="In Progress"/>
+                <element label="Submitted"/>
+            </choice>
+        </element>
+        <element choice="3" label="WorkorderType" max_length="40" name="workordertype" type="choice">
+            <choice>
+                <element label="Delivery"/>
+                <element label="PickUp"/>
+            </choice>
+        </element>
+    </element>
+</database>
